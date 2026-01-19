@@ -1,5 +1,8 @@
 {
   "owner": {
     "username": "nikolajpietrowskij-blip"
+  },
+  "record": {
+    "CNAME": "pietrowskij.pages.dev"
   }
 }
